@@ -60,3 +60,4 @@ protected关键字可以把字段和方法的访问权控制在继承树内部�
 子类自动获得了父类的所有字段，严禁定义与父类重名的字段。
 术语：父类：super class|parent class|base class
      子类：subclass|extended class
+向下转型和向上转型
